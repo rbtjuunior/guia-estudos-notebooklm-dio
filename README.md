@@ -268,6 +268,177 @@ O usuário pode conversar com o projeto usando perguntas como:
 
 ---
 
+# 📝 Prompts Utilizados no Trabalho
+
+## Prompt 1
+
+### Prompt
+
+"Estou montando um empreendimento novo na área de tecnologia, me cite em uma lista as seguintes informações:
+
+* quais cuidados devo tomar ao iniciar o meu empreendimento
+* referências em que posso me espelhar para conseguir novos insights para atualizar o meu empreendimento
+* contratempos que podem surgir durante o caminho no meu novo empreendimento"
+
+### Resposta do Modelo
+
+Ao iniciar um empreendimento na área de tecnologia sob a ótica da filosofia de Napoleon Hill, você deve focar tanto na estruturação prática quanto na preparação mental.
+
+#### Cuidados ao iniciar o seu empreendimento
+
+* Defina um propósito central inabalável: o ponto de partida de qualquer realização é o desejo ardente, transformado em uma meta clara, com valores e prazos definidos por escrito.
+* Crie um plano detalhado e aja imediatamente: não espere pelo momento perfeito; comece com os recursos disponíveis e desenvolva um planejamento organizado.
+* Forme uma Aliança de Mente Superior (Master Mind): associe-se a pessoas que complementem seus conhecimentos e experiências.
+* Controle o seu ambiente mental: proteja-se de influências negativas e tome decisões com firmeza.
+* Tenha reserva de capital e visão financeira: mantenha recursos para absorver erros iniciais e fortalecer a reputação do negócio.
+* Invista em conhecimento especializado: desenvolva competências técnicas relacionadas ao produto ou serviço oferecido.
+
+#### Referências para novos insights e atualização
+
+* Bill Gates e Paul Allen.
+* Steve Jobs e Steve Wozniak.
+* Thomas Edison.
+* Henry Ford.
+* Jeff Bezos e Pierre Omidyar.
+* Livro **Startup Enxuta**, de Eric Ries.
+
+#### Contratempos que podem surgir no caminho
+
+* Derrota temporária confundida com fracasso.
+* Procrastinação e indecisão.
+* Medo da crítica.
+* Desarmonia na Aliança de Mente Superior.
+* Falta de capital e má gestão financeira.
+* Suscetibilidade a influências negativas.
+
+---
+
+## Prompt 2
+
+### Prompt
+
+"Como diferenciar ativos de passivos no meu início da jornada como empreendedor? Me dê uma resposta em formato de lista com tópicos separados e bem estruturados."
+
+### Resposta do Modelo
+
+#### 1. O Conceito Fundamental
+
+**Ativo:** tudo aquilo que coloca dinheiro no seu bolso.
+
+**Passivo:** tudo aquilo que tira dinheiro do seu bolso.
+
+#### 2. Passivos Comuns (Disfarçados de Investimentos)
+
+* Carros financiados.
+* Casa própria financiada.
+* Dívidas de consumo para aquisição de bens de luxo.
+
+#### 3. Exemplos de Ativos Reais
+
+* Negócios que geram renda recorrente.
+* Produtos intelectuais.
+* Investimentos financeiros geradores de renda.
+* Bens destinados à locação.
+
+#### 4. O Ativo Intangível: Seu Capital Mental
+
+* O cérebro como ativo.
+* Conhecimento especializado.
+* Alianças de Mente Superior (Master Mind).
+
+#### 5. Estratégia Prática para o Início
+
+* Pague-se primeiro.
+* Utilize dívidas produtivas com responsabilidade.
+* Priorize ativos antes de adquirir passivos.
+* Viva abaixo das suas possibilidades financeiras.
+
+---
+
+## Prompt 3
+
+### Prompt
+
+"Seguindo a analogia de um empreendedor, monte para mim um plano de estudos detalhado com o tema central de empreendimento na área de tecnologia. O plano de estudo deve conter:
+
+* modelos de empreendimentos na área de tecnologia
+* hábitos eficazes de empreendedores de sucesso
+* plano de estudo detalhado com temas claros
+* exemplos de onde posso aplicar as habilidades aprendidas no meu plano de estudos"
+
+### Resposta do Modelo
+
+#### 1. Modelos de Empreendimentos na Área de Tecnologia
+
+* Licenciamento e escala (Modelo Microsoft).
+* Inovação centrada no usuário (Modelo Apple).
+* Imaginação sintética aplicada ao comércio (Modelo Amazon/eBay).
+* Miniaturização e adaptação (Modelo Sony).
+
+#### 2. Hábitos Eficazes de Empreendedores de Sucesso
+
+* Propósito definido.
+* Aliança de Mente Superior (Master Mind).
+* Decisão rápida e firme.
+* Persistência inabalável.
+* Hábito de estudo contínuo.
+
+#### 3. Plano de Estudo Detalhado
+
+| Módulo | Tema Central            | Conceitos-Chave                                                  |
+| ------ | ----------------------- | ---------------------------------------------------------------- |
+| 1      | Fundação Mental         | Desejo ardente, propósito definido, autossugestão e visualização |
+| 2      | Oficina da Imaginação   | Imaginação sintética e criativa                                  |
+| 3      | Alianças e Conhecimento | Master Mind e conhecimento especializado                         |
+| 4      | Execução e Liderança    | Tomada de decisão, liderança e combate à procrastinação          |
+| 5      | Educação Financeira     | Ativos, passivos e construção de patrimônio                      |
+
+#### 4. Onde Aplicar as Habilidades Aprendidas
+
+* Resolução de problemas comuns por meio da tecnologia.
+* Marketing de serviços pessoais.
+* Gestão de equipes e projetos.
+* Vendas e negociação.
+* Desenvolvimento de produtos e serviços inovadores.
+
+Mensagem central do modelo:
+
+> "O que a mente do homem pode conceber e acreditar, ela pode alcançar. Comece agora, onde você está, e com as ferramentas que possui."
+
+---
+
+# 📚 Curadoria de Fontes
+
+## Fontes Utilizadas
+
+### Vídeo no YouTube — Fonte de estudo sobre Napoleon Hill e desenvolvimento pessoal
+
+https://www.youtube.com/watch?v=RFww_RQOhdA
+
+### O Segredo e o Sucesso
+
+Conteúdos sobre sucesso, mentalidade, prosperidade e desenvolvimento pessoal.
+
+https://www.osegredoeosucesso.com.br/
+
+### Nepo
+
+Fonte de estudo complementar sobre conhecimento, pensamento estratégico, sociedade, inovação e transformação.
+
+https://nepo.com.br/
+
+### SlideShare — Leadership & Management
+
+Referência complementar sobre liderança, gestão, comportamento empreendedor e desenvolvimento profissional.
+
+https://pt.slideshare.net/category/leadership-management
+
+### Vídeo no YouTube — Estudo complementar sobre Napoleon Hill
+
+https://www.youtube.com/watch?v=IxHmDKSB2WA
+
+---
+
 # ⚠️ Aviso Importante
 
 Este projeto possui finalidade educacional, filosófica e organizacional.
@@ -325,21 +496,4 @@ O **Napoleon Hill Second Brain** é um projeto criado para quem deseja estudar r
 
 Ele une os ensinamentos clássicos de Napoleon Hill com a capacidade do NotebookLM de estruturar informações, responder perguntas e facilitar o aprendizado.
 
-Este projeto é ideal para pessoas que desejam pensar melhor, estudar com mais clareza, desenvolver disciplina mental e compreender os princípios que conectam pensamento, ação, dinheiro e realização pessoal.
-
----
-
-## 📌 Status do Projeto
-
-Em desenvolvimento.
-
-Novas fontes, resumos, perguntas, análises e aplicações práticas poderão ser adicionadas ao longo do tempo.
-
----
-
-## 📚 Licença
-
-Este projeto é destinado a fins educacionais e de estudo pessoal.
-
-O conteúdo deve respeitar os direitos autorais das obras originais utilizadas como fonte de pesquisa.
-
+Este projeto é ideal para pessoas que desej
