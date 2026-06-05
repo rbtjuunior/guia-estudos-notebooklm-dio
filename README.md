@@ -1,4 +1,5 @@
 # 🧠 Napoleon Hill Second Brain — Projeto NotebookLM
+# Link do NotebookLM -> https://notebooklm.google.com/notebook/96ceab1f-3093-4487-bdb5-0b093250196c
 
 ## 📌 Visão Geral do Projeto
 
